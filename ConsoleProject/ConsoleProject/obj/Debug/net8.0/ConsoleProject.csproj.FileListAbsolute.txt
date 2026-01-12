@@ -1,0 +1,14 @@
+E:\KJS\과제\ConsoleProject\ConsoleProject\bin\Debug\net8.0\ConsoleProject.exe
+E:\KJS\과제\ConsoleProject\ConsoleProject\bin\Debug\net8.0\ConsoleProject.deps.json
+E:\KJS\과제\ConsoleProject\ConsoleProject\bin\Debug\net8.0\ConsoleProject.runtimeconfig.json
+E:\KJS\과제\ConsoleProject\ConsoleProject\bin\Debug\net8.0\ConsoleProject.dll
+E:\KJS\과제\ConsoleProject\ConsoleProject\bin\Debug\net8.0\ConsoleProject.pdb
+E:\KJS\과제\ConsoleProject\ConsoleProject\obj\Debug\net8.0\ConsoleProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\KJS\과제\ConsoleProject\ConsoleProject\obj\Debug\net8.0\ConsoleProject.AssemblyInfoInputs.cache
+E:\KJS\과제\ConsoleProject\ConsoleProject\obj\Debug\net8.0\ConsoleProject.AssemblyInfo.cs
+E:\KJS\과제\ConsoleProject\ConsoleProject\obj\Debug\net8.0\ConsoleProject.csproj.CoreCompileInputs.cache
+E:\KJS\과제\ConsoleProject\ConsoleProject\obj\Debug\net8.0\ConsoleProject.dll
+E:\KJS\과제\ConsoleProject\ConsoleProject\obj\Debug\net8.0\refint\ConsoleProject.dll
+E:\KJS\과제\ConsoleProject\ConsoleProject\obj\Debug\net8.0\ConsoleProject.pdb
+E:\KJS\과제\ConsoleProject\ConsoleProject\obj\Debug\net8.0\ConsoleProject.genruntimeconfig.cache
+E:\KJS\과제\ConsoleProject\ConsoleProject\obj\Debug\net8.0\ref\ConsoleProject.dll
