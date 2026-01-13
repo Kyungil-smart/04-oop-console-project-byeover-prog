@@ -8,6 +8,7 @@ namespace ConsoleProject.Utils
         private double _currentTime;
 
         public static double DeltaTime { get; private set; }
+        public static double TotalTime { get; private set; }
 
         private static Stopwatch _stopwatch = null!;
 
@@ -19,6 +20,7 @@ namespace ConsoleProject.Utils
             _currentTime = _stopwatch.Elapsed.TotalSeconds;
             _prevTime = _currentTime;
             DeltaTime = 0.0;
+            TotalTime = 0.0;
         }
 
         public void Tick()
@@ -27,6 +29,7 @@ namespace ConsoleProject.Utils
             _currentTime = _stopwatch.Elapsed.TotalSeconds;
 
             DeltaTime = _currentTime - _prevTime;
+            TotalTime = _currentTime;
         }
     }
 }

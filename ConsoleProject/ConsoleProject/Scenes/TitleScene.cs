@@ -1,8 +1,6 @@
-﻿
-
-public class TitleScene : Scene
+﻿public class TitleScene : Scene
 {
-    private MenuList _titleMenu;
+    private MenuList _titleMenu = null!;
 
     public TitleScene()
     {
@@ -28,8 +26,8 @@ public class TitleScene : Scene
         if (InputManager.GetKey(ConsoleKey.UpArrow))
         {
             _titleMenu.SelectUp();
-        } 
-        
+        }
+
         if (InputManager.GetKey(ConsoleKey.DownArrow))
         {
             _titleMenu.SelectDown();
@@ -40,12 +38,12 @@ public class TitleScene : Scene
             _titleMenu.Select();
         }
     }
-    
+
     public override void Render()
     {
         Console.SetCursorPosition(5, 1);
         GameManager.GameName.Print(ConsoleColor.Yellow);
-        
+
         _titleMenu.Render(8, 5);
     }
 
@@ -60,7 +58,7 @@ public class TitleScene : Scene
 
     public void GameStart()
     {
-        SceneManager.Change("Town");
+        SceneManager.Change("Story");
     }
 
     public void ViewCredits()

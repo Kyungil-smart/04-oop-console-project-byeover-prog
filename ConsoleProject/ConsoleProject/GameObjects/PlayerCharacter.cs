@@ -84,6 +84,7 @@ public class PlayerCharacter : GameObject
 
         int h = Field.GetLength(0);
         int w = Field.GetLength(1);
+        Field[nextPos.Y, nextPos.X].StepPlayer();
 
         if (nextPos.X < 0 || nextPos.X >= w || nextPos.Y < 0 || nextPos.Y >= h)
             return;

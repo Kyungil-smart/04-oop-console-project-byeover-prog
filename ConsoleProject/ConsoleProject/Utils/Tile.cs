@@ -20,6 +20,11 @@ public struct Tile
         OnStepPlayer = null;
     }
 
+    public void StepPlayer()
+    {
+        OnStepPlayer?.Invoke();
+    }
+
     public void Print()
     {
         if (HasGameObject)

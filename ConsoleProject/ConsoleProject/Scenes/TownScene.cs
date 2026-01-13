@@ -451,11 +451,6 @@ namespace ConsoleProject.Scenes
             }
         }
 
-        // ------------------------------------------------------------
-        // Anomaly: GhostWall + BloodTrail
-        // - 일정 턴 이후부터 유령 벽이 일정 주기로 왼쪽으로 이동
-        // - 지나간 자리에 피(치명 overlay)를 깔아 흔적을 남김
-        // ------------------------------------------------------------
         private void UpdateGhostWall()
         {
             if (_anomalyType != AnomalyType.GhostWallBloodTrail) return;
@@ -482,12 +477,6 @@ namespace ConsoleProject.Scenes
                 };
             }
         }
-
-        // ------------------------------------------------------------
-        // Anomaly: DollChase
-        // - 시작 시 인형을 오른쪽에서 스폰
-        // - 일정 턴 이후부터 플레이어를 추격(맨해튼 거리 기반으로 가까울수록 더 자주 움직임)
-        // ------------------------------------------------------------
         private void StartDollChase()
         {
             _dollActive = true;
