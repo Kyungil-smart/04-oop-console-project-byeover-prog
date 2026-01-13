@@ -67,11 +67,20 @@ namespace ConsoleProject.Utils
 
             _forceRedraw = false;
 
-            WriteUiLine(ViewHeight + 0, "이동: 방향키  |  이상이 보이면 ← 왼쪽 끝, 이상이 없으면 → 오른쪽 끝");
-            WriteUiLine(ViewHeight + 1, "녹색선은 시작선 입니다. 이상 현상이 있을경우 녹색선 넘어서 왼쪽 끝으로 이동 해주세요");
-            WriteUiLine(ViewHeight + 2, "이상이 발견되면 즉시 왼쪽으로 도망가세요!!");
-            WriteUiLine(ViewHeight + 3, $"Stage: {stage}/8");
-            WriteUiLine(ViewHeight + 4, message ?? "");
+            WriteUiLine(ViewHeight + 0, "←↑↓→ 이동 | L 로그 | 이상 있으면 ←끝 / 없으면 →끝");
+            WriteUiLine(ViewHeight + 1, $"Stage {stage}/8  Time {FormatClock(Time.TotalTime)}");
+            WriteUiLine(ViewHeight + 2, message ?? "");
+        }
+
+        private static string FormatClock(double seconds)
+        {
+            if (seconds < 0) seconds = 0;
+
+            int total = (int)seconds;
+            int m = total / 60;
+            int s = total % 60;
+
+            return $"{m:00}:{s:00}";
         }
 
         private static string GetBaseTile(int mapW, int mapH, int x, int y)

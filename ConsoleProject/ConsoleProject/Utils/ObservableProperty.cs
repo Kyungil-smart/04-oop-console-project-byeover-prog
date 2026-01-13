@@ -1,6 +1,4 @@
-﻿
-
-public class ObservableProperty<T> where T : struct
+﻿public class ObservableProperty<T> where T : struct
 {
     private T _value;
 
@@ -14,11 +12,12 @@ public class ObservableProperty<T> where T : struct
         }
     }
 
-    public event Action<T> OnValueChanged;
+    public event Action<T>? OnValueChanged;
 
     public ObservableProperty(T value = default)
     {
         _value = value;
+        OnValueChanged = null;
     }
 
     public void AddListener(Action<T> action)

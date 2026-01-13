@@ -1,16 +1,16 @@
-﻿
-
-using System.Runtime.InteropServices.Marshalling;
+﻿using System.Runtime.InteropServices.Marshalling;
 
 public class PlayerCharacter : GameObject
 {
     public ObservableProperty<int> Health = new ObservableProperty<int>(5);
     public ObservableProperty<int> Mana = new ObservableProperty<int>(5);
-    private string _healthGauge;
-    private string _manaGauge;
-    
-    public Tile[,] Field { get; set; }
-    private Inventory _inventory;
+
+    private string _healthGauge = "";
+    private string _manaGauge = "";
+
+    public Tile[,]? Field { get; set; }
+
+    private Inventory _inventory = null!;
     public bool IsActiveControl { get; private set; }
 
     public PlayerCharacter() => Init();
@@ -19,10 +19,13 @@ public class PlayerCharacter : GameObject
     {
         Symbol = 'P';
         IsActiveControl = true;
+
         Health.AddListener(SetHealthGauge);
         Mana.AddListener(SetManaGauge);
+
         _healthGauge = "■■■■■";
         _manaGauge = "■■■■■";
+
         _inventory = new Inventory(this);
     }
 
@@ -32,7 +35,7 @@ public class PlayerCharacter : GameObject
         {
             HandleControl();
         }
-        
+
         if (InputManager.GetKey(ConsoleKey.UpArrow))
         {
             Move(Vector.Up);
@@ -73,7 +76,6 @@ public class PlayerCharacter : GameObject
         Debug.LogWarning($"{_inventory._itemMenu.CurrentIndex}");
     }
 
-
     private void Move(Vector direction)
     {
         if (Field == null || !IsActiveControl) return;
@@ -86,11 +88,9 @@ public class PlayerCharacter : GameObject
         if (nextPos.X < 0 || nextPos.X >= w || nextPos.Y < 0 || nextPos.Y >= h)
             return;
 
-        
         if (nextPos.Y < 3 || nextPos.Y > 7)
             return;
 
-        
         if (Field[nextPos.Y, nextPos.X].OnTileObject != null)
             return;
 
@@ -98,8 +98,6 @@ public class PlayerCharacter : GameObject
         Field[nextPos.Y, nextPos.X].OnTileObject = this;
         Position = nextPos;
     }
-
-
 
     public void Render()
     {
@@ -116,7 +114,7 @@ public class PlayerCharacter : GameObject
     public void DrawManaGauge()
     {
         Console.SetCursorPosition(Position.X - 2, Position.Y - 1);
-        _healthGauge.Print(ConsoleColor.Blue);
+        _manaGauge.Print(ConsoleColor.Blue);
     }
 
     public void DrawHealthGauge()
@@ -152,19 +150,19 @@ public class PlayerCharacter : GameObject
         switch (mana)
         {
             case 5:
-                _healthGauge = "■■■■■";
+                _manaGauge = "■■■■■";
                 break;
             case 4:
-                _healthGauge = "■■■■□";
+                _manaGauge = "■■■■□";
                 break;
             case 3:
-                _healthGauge = "■■■□□";
+                _manaGauge = "■■■□□";
                 break;
             case 2:
-                _healthGauge = "■■□□□";
+                _manaGauge = "■■□□□";
                 break;
             case 1:
-                _healthGauge = "■□□□□";
+                _manaGauge = "■□□□□";
                 break;
         }
     }

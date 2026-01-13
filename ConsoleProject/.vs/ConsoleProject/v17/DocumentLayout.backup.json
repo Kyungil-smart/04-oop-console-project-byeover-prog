@@ -3,16 +3,52 @@
   "WorkspaceRootPath": "E:\\KJS\\\uACFC\uC81C\\ConsoleProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{81DDEFCF-5FD4-4EEB-964D-FCF8DC6438AF}|ConsoleProject\\ConsoleProject.csproj|e:\\kjs\\\uACFC\uC81C\\consoleproject\\consoleproject\\scenes\\townscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81DDEFCF-5FD4-4EEB-964D-FCF8DC6438AF}|ConsoleProject\\ConsoleProject.csproj|solutionrelative:consoleproject\\scenes\\townscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDEFCF-5FD4-4EEB-964D-FCF8DC6438AF}|ConsoleProject\\ConsoleProject.csproj|e:\\kjs\\\uACFC\uC81C\\consoleproject\\consoleproject\\gameobjects\\staticprop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81DDEFCF-5FD4-4EEB-964D-FCF8DC6438AF}|ConsoleProject\\ConsoleProject.csproj|solutionrelative:consoleproject\\gameobjects\\staticprop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{81DDEFCF-5FD4-4EEB-964D-FCF8DC6438AF}|ConsoleProject\\ConsoleProject.csproj|e:\\kjs\\\uACFC\uC81C\\consoleproject\\consoleproject\\utils\\viewportmaprenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81DDEFCF-5FD4-4EEB-964D-FCF8DC6438AF}|ConsoleProject\\ConsoleProject.csproj|solutionrelative:consoleproject\\utils\\viewportmaprenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81DDEFCF-5FD4-4EEB-964D-FCF8DC6438AF}|ConsoleProject\\ConsoleProject.csproj|e:\\kjs\\\uACFC\uC81C\\consoleproject\\consoleproject\\utils\\vector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81DDEFCF-5FD4-4EEB-964D-FCF8DC6438AF}|ConsoleProject\\ConsoleProject.csproj|solutionrelative:consoleproject\\utils\\vector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81DDEFCF-5FD4-4EEB-964D-FCF8DC6438AF}|ConsoleProject\\ConsoleProject.csproj|e:\\kjs\\\uACFC\uC81C\\consoleproject\\consoleproject\\gameobjects\\playercharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81DDEFCF-5FD4-4EEB-964D-FCF8DC6438AF}|ConsoleProject\\ConsoleProject.csproj|solutionrelative:consoleproject\\gameobjects\\playercharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDEFCF-5FD4-4EEB-964D-FCF8DC6438AF}|ConsoleProject\\ConsoleProject.csproj|e:\\kjs\\\uACFC\uC81C\\consoleproject\\consoleproject\\utils\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81DDEFCF-5FD4-4EEB-964D-FCF8DC6438AF}|ConsoleProject\\ConsoleProject.csproj|solutionrelative:consoleproject\\utils\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{81DDEFCF-5FD4-4EEB-964D-FCF8DC6438AF}|ConsoleProject\\ConsoleProject.csproj|e:\\kjs\\\uACFC\uC81C\\consoleproject\\consoleproject\\utils\\tile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81DDEFCF-5FD4-4EEB-964D-FCF8DC6438AF}|ConsoleProject\\ConsoleProject.csproj|solutionrelative:consoleproject\\utils\\tile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDEFCF-5FD4-4EEB-964D-FCF8DC6438AF}|ConsoleProject\\ConsoleProject.csproj|e:\\kjs\\\uACFC\uC81C\\consoleproject\\consoleproject\\managers\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81DDEFCF-5FD4-4EEB-964D-FCF8DC6438AF}|ConsoleProject\\ConsoleProject.csproj|solutionrelative:consoleproject\\managers\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDEFCF-5FD4-4EEB-964D-FCF8DC6438AF}|ConsoleProject\\ConsoleProject.csproj|e:\\kjs\\\uACFC\uC81C\\consoleproject\\consoleproject\\gameobjects\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81DDEFCF-5FD4-4EEB-964D-FCF8DC6438AF}|ConsoleProject\\ConsoleProject.csproj|solutionrelative:consoleproject\\gameobjects\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDEFCF-5FD4-4EEB-964D-FCF8DC6438AF}|ConsoleProject\\ConsoleProject.csproj|e:\\kjs\\\uACFC\uC81C\\consoleproject\\consoleproject\\utils\\emojitiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81DDEFCF-5FD4-4EEB-964D-FCF8DC6438AF}|ConsoleProject\\ConsoleProject.csproj|solutionrelative:consoleproject\\utils\\emojitiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDEFCF-5FD4-4EEB-964D-FCF8DC6438AF}|ConsoleProject\\ConsoleProject.csproj|e:\\kjs\\\uACFC\uC81C\\consoleproject\\consoleproject\\gameobjects\\potion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81DDEFCF-5FD4-4EEB-964D-FCF8DC6438AF}|ConsoleProject\\ConsoleProject.csproj|solutionrelative:consoleproject\\gameobjects\\potion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDEFCF-5FD4-4EEB-964D-FCF8DC6438AF}|ConsoleProject\\ConsoleProject.csproj|e:\\kjs\\\uACFC\uC81C\\consoleproject\\consoleproject\\gameobjects\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81DDEFCF-5FD4-4EEB-964D-FCF8DC6438AF}|ConsoleProject\\ConsoleProject.csproj|solutionrelative:consoleproject\\gameobjects\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDEFCF-5FD4-4EEB-964D-FCF8DC6438AF}|ConsoleProject\\ConsoleProject.csproj|e:\\kjs\\\uACFC\uC81C\\consoleproject\\consoleproject\\utils\\vector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81DDEFCF-5FD4-4EEB-964D-FCF8DC6438AF}|ConsoleProject\\ConsoleProject.csproj|solutionrelative:consoleproject\\utils\\vector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{81DDEFCF-5FD4-4EEB-964D-FCF8DC6438AF}|ConsoleProject\\ConsoleProject.csproj|e:\\kjs\\\uACFC\uC81C\\consoleproject\\consoleproject\\utils\\textextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,16 +79,8 @@
       "RelativeMoniker": "D:0:0:{81DDEFCF-5FD4-4EEB-964D-FCF8DC6438AF}|ConsoleProject\\ConsoleProject.csproj|solutionrelative:consoleproject\\utils\\iinteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81DDEFCF-5FD4-4EEB-964D-FCF8DC6438AF}|ConsoleProject\\ConsoleProject.csproj|e:\\kjs\\\uACFC\uC81C\\consoleproject\\consoleproject\\utils\\emojitiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81DDEFCF-5FD4-4EEB-964D-FCF8DC6438AF}|ConsoleProject\\ConsoleProject.csproj|solutionrelative:consoleproject\\utils\\emojitiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{81DDEFCF-5FD4-4EEB-964D-FCF8DC6438AF}|ConsoleProject\\ConsoleProject.csproj|e:\\kjs\\\uACFC\uC81C\\consoleproject\\consoleproject\\utils\\debug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81DDEFCF-5FD4-4EEB-964D-FCF8DC6438AF}|ConsoleProject\\ConsoleProject.csproj|solutionrelative:consoleproject\\utils\\debug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81DDEFCF-5FD4-4EEB-964D-FCF8DC6438AF}|ConsoleProject\\ConsoleProject.csproj|e:\\kjs\\\uACFC\uC81C\\consoleproject\\consoleproject\\scenes\\townscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81DDEFCF-5FD4-4EEB-964D-FCF8DC6438AF}|ConsoleProject\\ConsoleProject.csproj|solutionrelative:consoleproject\\scenes\\townscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{81DDEFCF-5FD4-4EEB-964D-FCF8DC6438AF}|ConsoleProject\\ConsoleProject.csproj|e:\\kjs\\\uACFC\uC81C\\consoleproject\\consoleproject\\scenes\\titlescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -63,16 +91,12 @@
       "RelativeMoniker": "D:0:0:{81DDEFCF-5FD4-4EEB-964D-FCF8DC6438AF}|ConsoleProject\\ConsoleProject.csproj|solutionrelative:consoleproject\\scenes\\storyscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81DDEFCF-5FD4-4EEB-964D-FCF8DC6438AF}|ConsoleProject\\ConsoleProject.csproj|e:\\kjs\\\uACFC\uC81C\\consoleproject\\consoleproject\\scenes\\logscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81DDEFCF-5FD4-4EEB-964D-FCF8DC6438AF}|ConsoleProject\\ConsoleProject.csproj|solutionrelative:consoleproject\\scenes\\logscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{81DDEFCF-5FD4-4EEB-964D-FCF8DC6438AF}|ConsoleProject\\ConsoleProject.csproj|e:\\kjs\\\uACFC\uC81C\\consoleproject\\consoleproject\\scenes\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81DDEFCF-5FD4-4EEB-964D-FCF8DC6438AF}|ConsoleProject\\ConsoleProject.csproj|solutionrelative:consoleproject\\scenes\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81DDEFCF-5FD4-4EEB-964D-FCF8DC6438AF}|ConsoleProject\\ConsoleProject.csproj|e:\\kjs\\\uACFC\uC81C\\consoleproject\\consoleproject\\managers\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81DDEFCF-5FD4-4EEB-964D-FCF8DC6438AF}|ConsoleProject\\ConsoleProject.csproj|solutionrelative:consoleproject\\managers\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81DDEFCF-5FD4-4EEB-964D-FCF8DC6438AF}|ConsoleProject\\ConsoleProject.csproj|e:\\kjs\\\uACFC\uC81C\\consoleproject\\consoleproject\\scenes\\logscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81DDEFCF-5FD4-4EEB-964D-FCF8DC6438AF}|ConsoleProject\\ConsoleProject.csproj|solutionrelative:consoleproject\\scenes\\logscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{81DDEFCF-5FD4-4EEB-964D-FCF8DC6438AF}|ConsoleProject\\ConsoleProject.csproj|e:\\kjs\\\uACFC\uC81C\\consoleproject\\consoleproject\\managers\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -81,26 +105,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{81DDEFCF-5FD4-4EEB-964D-FCF8DC6438AF}|ConsoleProject\\ConsoleProject.csproj|e:\\kjs\\\uACFC\uC81C\\consoleproject\\consoleproject\\managers\\scenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81DDEFCF-5FD4-4EEB-964D-FCF8DC6438AF}|ConsoleProject\\ConsoleProject.csproj|solutionrelative:consoleproject\\managers\\scenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81DDEFCF-5FD4-4EEB-964D-FCF8DC6438AF}|ConsoleProject\\ConsoleProject.csproj|e:\\kjs\\\uACFC\uC81C\\consoleproject\\consoleproject\\gameobjects\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81DDEFCF-5FD4-4EEB-964D-FCF8DC6438AF}|ConsoleProject\\ConsoleProject.csproj|solutionrelative:consoleproject\\gameobjects\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81DDEFCF-5FD4-4EEB-964D-FCF8DC6438AF}|ConsoleProject\\ConsoleProject.csproj|e:\\kjs\\\uACFC\uC81C\\consoleproject\\consoleproject\\gameobjects\\playercharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81DDEFCF-5FD4-4EEB-964D-FCF8DC6438AF}|ConsoleProject\\ConsoleProject.csproj|solutionrelative:consoleproject\\gameobjects\\playercharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81DDEFCF-5FD4-4EEB-964D-FCF8DC6438AF}|ConsoleProject\\ConsoleProject.csproj|e:\\kjs\\\uACFC\uC81C\\consoleproject\\consoleproject\\gameobjects\\potion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81DDEFCF-5FD4-4EEB-964D-FCF8DC6438AF}|ConsoleProject\\ConsoleProject.csproj|solutionrelative:consoleproject\\gameobjects\\potion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81DDEFCF-5FD4-4EEB-964D-FCF8DC6438AF}|ConsoleProject\\ConsoleProject.csproj|e:\\kjs\\\uACFC\uC81C\\consoleproject\\consoleproject\\gameobjects\\staticprop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81DDEFCF-5FD4-4EEB-964D-FCF8DC6438AF}|ConsoleProject\\ConsoleProject.csproj|solutionrelative:consoleproject\\gameobjects\\staticprop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81DDEFCF-5FD4-4EEB-964D-FCF8DC6438AF}|ConsoleProject\\ConsoleProject.csproj|e:\\kjs\\\uACFC\uC81C\\consoleproject\\consoleproject\\gameobjects\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81DDEFCF-5FD4-4EEB-964D-FCF8DC6438AF}|ConsoleProject\\ConsoleProject.csproj|solutionrelative:consoleproject\\gameobjects\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{81DDEFCF-5FD4-4EEB-964D-FCF8DC6438AF}|ConsoleProject\\ConsoleProject.csproj|e:\\kjs\\\uACFC\uC81C\\consoleproject\\consoleproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -118,7 +122,19 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "Time.cs",
+              "DocumentMoniker": "E:\\KJS\\\uACFC\uC81C\\ConsoleProject\\ConsoleProject\\Utils\\Time.cs",
+              "RelativeDocumentMoniker": "ConsoleProject\\Utils\\Time.cs",
+              "ToolTip": "E:\\KJS\\\uACFC\uC81C\\ConsoleProject\\ConsoleProject\\Utils\\Time.cs",
+              "RelativeToolTip": "ConsoleProject\\Utils\\Time.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T05:12:44.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Vector.cs",
               "DocumentMoniker": "E:\\KJS\\\uACFC\uC81C\\ConsoleProject\\ConsoleProject\\Utils\\Vector.cs",
               "RelativeDocumentMoniker": "ConsoleProject\\Utils\\Vector.cs",
@@ -126,25 +142,23 @@
               "RelativeToolTip": "ConsoleProject\\Utils\\Vector.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T02:34:16.675Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-12T02:34:16.675Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Tile.cs",
               "DocumentMoniker": "E:\\KJS\\\uACFC\uC81C\\ConsoleProject\\ConsoleProject\\Utils\\Tile.cs",
               "RelativeDocumentMoniker": "ConsoleProject\\Utils\\Tile.cs",
               "ToolTip": "E:\\KJS\\\uACFC\uC81C\\ConsoleProject\\ConsoleProject\\Utils\\Tile.cs",
               "RelativeToolTip": "ConsoleProject\\Utils\\Tile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T02:34:08.174Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-12T02:34:08.174Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
               "Title": "TextExtensions.cs",
               "DocumentMoniker": "E:\\KJS\\\uACFC\uC81C\\ConsoleProject\\ConsoleProject\\Utils\\TextExtensions.cs",
               "RelativeDocumentMoniker": "ConsoleProject\\Utils\\TextExtensions.cs",
@@ -152,12 +166,11 @@
               "RelativeToolTip": "ConsoleProject\\Utils\\TextExtensions.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAYwCEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T02:33:55.818Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-12T02:33:55.818Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 14,
               "Title": "Ractangle.cs",
               "DocumentMoniker": "E:\\KJS\\\uACFC\uC81C\\ConsoleProject\\ConsoleProject\\Utils\\Ractangle.cs",
               "RelativeDocumentMoniker": "ConsoleProject\\Utils\\Ractangle.cs",
@@ -165,25 +178,23 @@
               "RelativeToolTip": "ConsoleProject\\Utils\\Ractangle.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T02:33:45.886Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-12T02:33:45.886Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 15,
               "Title": "ObservableProperty.cs",
               "DocumentMoniker": "E:\\KJS\\\uACFC\uC81C\\ConsoleProject\\ConsoleProject\\Utils\\ObservableProperty.cs",
               "RelativeDocumentMoniker": "ConsoleProject\\Utils\\ObservableProperty.cs",
               "ToolTip": "E:\\KJS\\\uACFC\uC81C\\ConsoleProject\\ConsoleProject\\Utils\\ObservableProperty.cs",
               "RelativeToolTip": "ConsoleProject\\Utils\\ObservableProperty.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBIAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T02:33:43.424Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-12T02:33:43.424Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 19,
               "Title": "Debug.cs",
               "DocumentMoniker": "E:\\KJS\\\uACFC\uC81C\\ConsoleProject\\ConsoleProject\\Utils\\Debug.cs",
               "RelativeDocumentMoniker": "ConsoleProject\\Utils\\Debug.cs",
@@ -191,12 +202,11 @@
               "RelativeToolTip": "ConsoleProject\\Utils\\Debug.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T02:33:34.503Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-12T02:33:34.503Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 16,
               "Title": "MenuList.cs",
               "DocumentMoniker": "E:\\KJS\\\uACFC\uC81C\\ConsoleProject\\ConsoleProject\\Utils\\MenuList.cs",
               "RelativeDocumentMoniker": "ConsoleProject\\Utils\\MenuList.cs",
@@ -204,12 +214,11 @@
               "RelativeToolTip": "ConsoleProject\\Utils\\MenuList.cs",
               "ViewState": "AgIAAEoAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T02:31:07.004Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-12T02:31:07.004Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 17,
               "Title": "Inventory.cs",
               "DocumentMoniker": "E:\\KJS\\\uACFC\uC81C\\ConsoleProject\\ConsoleProject\\Utils\\Inventory.cs",
               "RelativeDocumentMoniker": "ConsoleProject\\Utils\\Inventory.cs",
@@ -217,12 +226,11 @@
               "RelativeToolTip": "ConsoleProject\\Utils\\Inventory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T02:31:06.153Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-12T02:31:06.153Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 18,
               "Title": "IInteractable.cs",
               "DocumentMoniker": "E:\\KJS\\\uACFC\uC81C\\ConsoleProject\\ConsoleProject\\Utils\\IInteractable.cs",
               "RelativeDocumentMoniker": "ConsoleProject\\Utils\\IInteractable.cs",
@@ -230,12 +238,11 @@
               "RelativeToolTip": "ConsoleProject\\Utils\\IInteractable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T02:31:05.449Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-12T02:31:05.449Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 10,
               "Title": "GameObject.cs",
               "DocumentMoniker": "E:\\KJS\\\uACFC\uC81C\\ConsoleProject\\ConsoleProject\\GameObjects\\GameObject.cs",
               "RelativeDocumentMoniker": "ConsoleProject\\GameObjects\\GameObject.cs",
@@ -243,12 +250,11 @@
               "RelativeToolTip": "ConsoleProject\\GameObjects\\GameObject.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T01:09:28.243Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-12T01:09:28.243Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 7,
               "Title": "Item.cs",
               "DocumentMoniker": "E:\\KJS\\\uACFC\uC81C\\ConsoleProject\\ConsoleProject\\GameObjects\\Item.cs",
               "RelativeDocumentMoniker": "ConsoleProject\\GameObjects\\Item.cs",
@@ -256,12 +262,11 @@
               "RelativeToolTip": "ConsoleProject\\GameObjects\\Item.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T01:08:53.155Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-12T01:08:53.155Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 9,
               "Title": "Potion.cs",
               "DocumentMoniker": "E:\\KJS\\\uACFC\uC81C\\ConsoleProject\\ConsoleProject\\GameObjects\\Potion.cs",
               "RelativeDocumentMoniker": "ConsoleProject\\GameObjects\\Potion.cs",
@@ -269,12 +274,11 @@
               "RelativeToolTip": "ConsoleProject\\GameObjects\\Potion.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T01:09:26.025Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-12T01:09:26.025Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 21,
               "Title": "StoryScene.cs",
               "DocumentMoniker": "E:\\KJS\\\uACFC\uC81C\\ConsoleProject\\ConsoleProject\\Scenes\\StoryScene.cs",
               "RelativeDocumentMoniker": "ConsoleProject\\Scenes\\StoryScene.cs",
@@ -282,25 +286,23 @@
               "RelativeToolTip": "ConsoleProject\\Scenes\\StoryScene.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T07:19:19.857Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-11T07:19:19.857Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 20,
               "Title": "TitleScene.cs",
               "DocumentMoniker": "E:\\KJS\\\uACFC\uC81C\\ConsoleProject\\ConsoleProject\\Scenes\\TitleScene.cs",
               "RelativeDocumentMoniker": "ConsoleProject\\Scenes\\TitleScene.cs",
               "ToolTip": "E:\\KJS\\\uACFC\uC81C\\ConsoleProject\\ConsoleProject\\Scenes\\TitleScene.cs",
               "RelativeToolTip": "ConsoleProject\\Scenes\\TitleScene.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAYwA0AAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwBEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T07:19:08.011Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-11T07:19:08.011Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 22,
               "Title": "Scene.cs",
               "DocumentMoniker": "E:\\KJS\\\uACFC\uC81C\\ConsoleProject\\ConsoleProject\\Scenes\\Scene.cs",
               "RelativeDocumentMoniker": "ConsoleProject\\Scenes\\Scene.cs",
@@ -308,12 +310,11 @@
               "RelativeToolTip": "ConsoleProject\\Scenes\\Scene.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T06:58:15.719Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-11T06:58:15.719Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 23,
               "Title": "LogScene.cs",
               "DocumentMoniker": "E:\\KJS\\\uACFC\uC81C\\ConsoleProject\\ConsoleProject\\Scenes\\LogScene.cs",
               "RelativeDocumentMoniker": "ConsoleProject\\Scenes\\LogScene.cs",
@@ -321,12 +322,11 @@
               "RelativeToolTip": "ConsoleProject\\Scenes\\LogScene.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T06:49:05.986Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-11T06:49:05.986Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 24,
               "Title": "InputManager.cs",
               "DocumentMoniker": "E:\\KJS\\\uACFC\uC81C\\ConsoleProject\\ConsoleProject\\Managers\\InputManager.cs",
               "RelativeDocumentMoniker": "ConsoleProject\\Managers\\InputManager.cs",
@@ -334,116 +334,109 @@
               "RelativeToolTip": "ConsoleProject\\Managers\\InputManager.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAQwAgAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T06:46:07.565Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-11T06:46:07.565Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 25,
               "Title": "SceneManager.cs",
               "DocumentMoniker": "E:\\KJS\\\uACFC\uC81C\\ConsoleProject\\ConsoleProject\\Managers\\SceneManager.cs",
               "RelativeDocumentMoniker": "ConsoleProject\\Managers\\SceneManager.cs",
               "ToolTip": "E:\\KJS\\\uACFC\uC81C\\ConsoleProject\\ConsoleProject\\Managers\\SceneManager.cs",
               "RelativeToolTip": "ConsoleProject\\Managers\\SceneManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowAwAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T05:09:19.787Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-11T05:09:19.787Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 6,
               "Title": "GameManager.cs",
               "DocumentMoniker": "E:\\KJS\\\uACFC\uC81C\\ConsoleProject\\ConsoleProject\\Managers\\GameManager.cs",
               "RelativeDocumentMoniker": "ConsoleProject\\Managers\\GameManager.cs",
               "ToolTip": "E:\\KJS\\\uACFC\uC81C\\ConsoleProject\\ConsoleProject\\Managers\\GameManager.cs",
               "RelativeToolTip": "ConsoleProject\\Managers\\GameManager.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAYwAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T05:08:59.294Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-11T05:08:59.294Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
               "Title": "RunProgress.cs",
               "DocumentMoniker": "E:\\KJS\\\uACFC\uC81C\\ConsoleProject\\ConsoleProject\\Utils\\RunProgress.cs",
               "RelativeDocumentMoniker": "ConsoleProject\\Utils\\RunProgress.cs",
-              "ToolTip": "E:\\KJS\\\uACFC\uC81C\\ConsoleProject\\ConsoleProject\\Utils\\RunProgress.cs*",
-              "RelativeToolTip": "ConsoleProject\\Utils\\RunProgress.cs*",
+              "ToolTip": "E:\\KJS\\\uACFC\uC81C\\ConsoleProject\\ConsoleProject\\Utils\\RunProgress.cs",
+              "RelativeToolTip": "ConsoleProject\\Utils\\RunProgress.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T03:18:02.229Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-11T03:18:02.229Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 1,
               "Title": "StaticProp.cs",
               "DocumentMoniker": "E:\\KJS\\\uACFC\uC81C\\ConsoleProject\\ConsoleProject\\GameObjects\\StaticProp.cs",
               "RelativeDocumentMoniker": "ConsoleProject\\GameObjects\\StaticProp.cs",
               "ToolTip": "E:\\KJS\\\uACFC\uC81C\\ConsoleProject\\ConsoleProject\\GameObjects\\StaticProp.cs",
               "RelativeToolTip": "ConsoleProject\\GameObjects\\StaticProp.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-11T03:15:57.455Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 3,
               "Title": "PlayerCharacter.cs",
               "DocumentMoniker": "E:\\KJS\\\uACFC\uC81C\\ConsoleProject\\ConsoleProject\\GameObjects\\PlayerCharacter.cs",
               "RelativeDocumentMoniker": "ConsoleProject\\GameObjects\\PlayerCharacter.cs",
               "ToolTip": "E:\\KJS\\\uACFC\uC81C\\ConsoleProject\\ConsoleProject\\GameObjects\\PlayerCharacter.cs",
               "RelativeToolTip": "ConsoleProject\\GameObjects\\PlayerCharacter.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAAwFwAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowDoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T03:00:59.64Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-11T03:00:59.64Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 0,
               "Title": "TownScene.cs",
               "DocumentMoniker": "E:\\KJS\\\uACFC\uC81C\\ConsoleProject\\ConsoleProject\\Scenes\\TownScene.cs",
               "RelativeDocumentMoniker": "ConsoleProject\\Scenes\\TownScene.cs",
               "ToolTip": "E:\\KJS\\\uACFC\uC81C\\ConsoleProject\\ConsoleProject\\Scenes\\TownScene.cs",
               "RelativeToolTip": "ConsoleProject\\Scenes\\TownScene.cs",
-              "ViewState": "AgIAAGwAAAAAAAAAAAAmwD0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAAAC8AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-11T02:47:39.25Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ViewportMapRenderer.cs",
               "DocumentMoniker": "E:\\KJS\\\uACFC\uC81C\\ConsoleProject\\ConsoleProject\\Utils\\ViewportMapRenderer.cs",
               "RelativeDocumentMoniker": "ConsoleProject\\Utils\\ViewportMapRenderer.cs",
               "ToolTip": "E:\\KJS\\\uACFC\uC81C\\ConsoleProject\\ConsoleProject\\Utils\\ViewportMapRenderer.cs",
               "RelativeToolTip": "ConsoleProject\\Utils\\ViewportMapRenderer.cs",
-              "ViewState": "AgIAAFUAAAAAAAAAAAAswGIAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAgwGUAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T02:47:19.121Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-11T02:47:19.121Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
               "Title": "EmojiTiles.cs",
               "DocumentMoniker": "E:\\KJS\\\uACFC\uC81C\\ConsoleProject\\ConsoleProject\\Utils\\EmojiTiles.cs",
               "RelativeDocumentMoniker": "ConsoleProject\\Utils\\EmojiTiles.cs",
               "ToolTip": "E:\\KJS\\\uACFC\uC81C\\ConsoleProject\\ConsoleProject\\Utils\\EmojiTiles.cs",
               "RelativeToolTip": "ConsoleProject\\Utils\\EmojiTiles.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T02:46:38.196Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-11T02:46:38.196Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\KJS\\\uACFC\uC81C\\ConsoleProject\\ConsoleProject\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleProject\\Program.cs",
